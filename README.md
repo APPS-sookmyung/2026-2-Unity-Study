@@ -1,2 +1,78 @@
 # 2026-2-Unity-Study
 [APPS] 2026-2 Unity 스터디 저장소
+### 스터디원
+
+*곽민성 구보윤 최연수 하주윤*
+
+<aside>
+<img src="/icons/clock_purple.svg" alt="/icons/clock_purple.svg" width="40px" />
+
+### 정기회의 일정
+
+매주 화요일 23시
+
+</aside>
+
+<aside>
+<img src="/icons/username_purple.svg" alt="/icons/username_purple.svg" width="40px" />
+
+### 정기세미나 발표 순서
+
+*하주윤→ 최연수→ 구보윤→ 곽민성*
+
+</aside>
+
+<aside>
+<img src="/icons/warning_purple.svg" alt="/icons/warning_purple.svg" width="40px" />
+
+### 스터디 규칙
+
+- 매주 화요일 22시까지 해당 주 학습내용(내용 정리, 실습 코드 등) PR을 보냅니다.
+- 아래의 `폴더 구조`, `Commit 규칙`, `PR 규칙`을 준수해주세요.
+- 사전 연락 O 미제출 : 1500원 *(*서브스터디는 팀별 자율)*
+- 사전 연락 X 미제출 : 500원
+- 미완성/지각 제출 : 1000원 (팀장 확인 필수) *(*서브스터디는 팀별 자율)*
+- 정기회의 불참 및 지각 : 1000원(사전 연락 없을 시)
+</aside>
+
+<aside>
+<img src="/icons/folder_purple.svg" alt="/icons/folder_purple.svg" width="40px" />
+
+### 폴더 구조
+
+- `이름`/`weekN`/파일
+</aside>
+
+<aside>
+<img src="/icons/warning_purple.svg" alt="/icons/warning_purple.svg" width="40px" />
+
+### Commit 규칙
+
+- Commit Message는 다음을 참고합니다.
+    - Feat: 기능 추가, 실습, 과제 코드 파일이나 부수적인 코드 추가
+    - Fix: 버그 및 코드 수정
+    - Docs: 문서 수정 (README.md 등)
+    - Design: CSS 등 사용자 UI 디자인 변경
+    - Move: 프로젝트 파일 및 코드 이동
+    - Remove: 불필요한 코드 및 파일을 삭제
+    - Rename: 파일 및 폴더명을 변경
+    - Refactor: 코드 리팩터링
+    - Comment: 필요한 주석 추가 및 변경
+    - Release: 버전 릴리즈
+- ex)
+    - Feat: 6주차 과제 및 실습 코드
+    - Fix: 4주차 과제 index.html 문법 오류 수정
+    - Move: 5주차 파일 이동
+</aside>
+
+<aside>
+<img src="/icons/warning_purple.svg" alt="/icons/warning_purple.svg" width="40px" />
+
+### PR(Pull Request 규칙)
+
+- 이 repository를 fork해서 본인 이름으로 만든 폴더에서 작업하고 commit 후 PR을 보냅니다.
+- PR은 각 주차별 학습내용(내용 정리, 실습 코드) commit을 함께 보냅니다.
+- 제목은 `[n주차 Unity 스터디] 이름`으로 설정합니다.
+    - ex) *[2주차 XXX 스터디] 홍길동*
+- 내용은 어려웠던 점과 배운 점 등 자유롭게 작성합니다.
+</aside>
