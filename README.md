@@ -4,8 +4,6 @@
 
 *곽민성 구보윤 최연수 하주윤*
 
-<aside>
-<img src="/icons/clock_purple.svg" alt="/icons/clock_purple.svg" width="40px" />
 
 ### 정기회의 일정
 
@@ -14,7 +12,7 @@
 </aside>
 
 <aside>
-<img src="/icons/username_purple.svg" alt="/icons/username_purple.svg" width="40px" />
+
 
 ### 정기세미나 발표 순서
 
@@ -23,7 +21,7 @@
 </aside>
 
 <aside>
-<img src="/icons/warning_purple.svg" alt="/icons/warning_purple.svg" width="40px" />
+>
 
 ### 스터디 규칙
 
@@ -36,7 +34,7 @@
 </aside>
 
 <aside>
-<img src="/icons/folder_purple.svg" alt="/icons/folder_purple.svg" width="40px" />
+
 
 ### 폴더 구조
 
@@ -44,7 +42,7 @@
 </aside>
 
 <aside>
-<img src="/icons/warning_purple.svg" alt="/icons/warning_purple.svg" width="40px" />
+
 
 ### Commit 규칙
 
@@ -66,7 +64,7 @@
 </aside>
 
 <aside>
-<img src="/icons/warning_purple.svg" alt="/icons/warning_purple.svg" width="40px" />
+
 
 ### PR(Pull Request 규칙)
 
