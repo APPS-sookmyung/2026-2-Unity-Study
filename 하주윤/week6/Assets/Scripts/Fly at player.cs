@@ -9,12 +9,12 @@ public class Flyatplayer : MonoBehaviour
     {
         gameObject.SetActive(false);
     }
+
        void Start()
     {
         playerPosition = player.transform.position;
     }
 
-    // Update is called once per frame
     void Update()
     {
         MoveToPlayer();
